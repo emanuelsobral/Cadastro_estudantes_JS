@@ -1,5 +1,7 @@
 # Captura de Dados do Formulário utilizando JavaScript
 
+![Registro Estudante](https://i.ibb.co/tPXGDXz/Cadastro-JS.png)
+
 ## Funcionamento
 
 Este repositório contém uma atividade focada na captura de dados de um formulário usando JavaScript. O objetivo principal é demonstrar como é possível extrair informações inseridas pelos usuários em um formulário web e manipulá-las utilizando a linguagem de programação JavaScript.
