@@ -7,7 +7,7 @@
 }
 
 body{
-    background-image: url(https://wallpapercave.com/wp/wp2003012.jpg); /*Place Holder IMG*/
+    background-image: url(https://images4.alphacoders.com/115/1152333.jpg); /*Place Holder IMG*/
     background-size: cover;
     background-repeat: no-repeat;
     min-width: 100vh;
@@ -23,9 +23,9 @@ main.container{  /*White box*/
     max-width: 350px;
     min-height: 20vh;
     padding: 2%;
-    background-color: rgba(255, 255, 255, .15);  
+    background-color: rgba(255, 255, 255, 0.288);  
     backdrop-filter: blur(6px);
-    box-shadow: 15px 15px 25px black;
+    box-shadow: 15px 15px 25px rgb(65, 65, 65);
     border-radius: 8px;
 }
 
