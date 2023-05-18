@@ -24,6 +24,6 @@ Este projeto está licenciado sob a Licença MIT. Você pode utilizar, modificar
 
 ## Contato
 
-Se você tiver alguma dúvida, sugestão ou comentário sobre esta atividade, sinta-se à vontade para entrar em contato comigo através do email seu-email@example.com.
+Se você tiver alguma dúvida, sugestão ou comentário sobre esta atividade, sinta-se à vontade para entrar em contato comigo através do email emanuelssobral@gmail.com.
 
 Espero que esta atividade seja útil para você aprender sobre a captura de dados de formulários usando JavaScript. Divirta-se codificando!
